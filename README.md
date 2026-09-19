@@ -71,5 +71,5 @@ without rebuilding.
 
 ## Disclaimer
 
-Automation tools carry risk. Use in instances where the other players are
+Automation tools carry risk. Use in Friends+ instances only where the other players are
 happy with it.
