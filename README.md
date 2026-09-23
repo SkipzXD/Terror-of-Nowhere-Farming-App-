@@ -69,7 +69,14 @@ without rebuilding.
 - If port 9001 is taken by another OSC app, the toolkit falls back to OSCQuery
   so both can run.
 
+## Licence
+
+MIT — see [LICENSE](LICENSE). You may use, modify and redistribute it,
+including in your own projects, as long as the copyright notice stays with it.
+It comes with no warranty.
+
 ## Disclaimer
 
-Automation tools carry risk. Use in Friends+ instances only where the other players are
-happy with it.
+Unofficial fan tool, not affiliated with VRChat Inc. or the creators of
+Terrors of Nowhere. Automation carries risk and may be unwelcome in some
+instances — please read [DISCLAIMER.md](DISCLAIMER.md) before using it.
