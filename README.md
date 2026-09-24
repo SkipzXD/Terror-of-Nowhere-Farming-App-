@@ -8,9 +8,6 @@ Windows only. Desktop mode.
 
 ## What it does
 
-**AFK Helper** — jumps only after you have been still for the idle time during
-a round, and stops if you die, leave the round, or the round ends.
-
 **8 Page / Punished Detector** — measures your movement speed in the lobby to
 identify 8ページ (a 6.50 m/s sideways cap) and パニッシュ (a slow cap) before
 the round begins. Press your check key when you hear the start button, or let
